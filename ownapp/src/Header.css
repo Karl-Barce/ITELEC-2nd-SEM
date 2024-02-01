@@ -1,0 +1,38 @@
+.head {
+    background-color: white;
+    
+}
+.text-type {
+    color: #357cc6;
+    font-weight: bold;
+    float: left;
+    display: inline;
+    padding: 5px;
+    text-decoration: none;
+
+}
+.text-type:hover {
+    color:#163453;
+}
+.text-type-right {
+    
+    color:#163453;
+    font-weight: bold;
+    float: right;
+    display: inline;
+    margin-right: 5px;
+    padding: 5px;
+    text-decoration: none;
+
+}
+.text-type-right:hover {
+    color: #357cc6;
+}
+img{
+    width: 100px;
+}
+.nav {
+    margin: 5px;
+    color: black;
+    min-height: 30px;
+}
