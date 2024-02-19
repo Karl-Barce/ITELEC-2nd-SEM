@@ -12,6 +12,8 @@ const games = [
     {name:"Endless Dungeon™",img:"images/endlessdungeon.webp"},
     {name:"Phantasy Star™", img:"images/phantasy-star.webp"},
 ]
+
+
 function Body(){
     return(
         <div className="back">
